@@ -40,7 +40,6 @@ AJOU UNIVERSITY
 <br>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerry3269&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry3269&show_icons=true&theme=radical)
 
 
