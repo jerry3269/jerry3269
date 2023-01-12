@@ -1,10 +1,12 @@
 ### Hi there 👋
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry3269&show_icons=true&theme=radical)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=YANG_JI_WOONG&fontAlignY=45&fontSize=40&height=150&animation=blinking)
 
-**jerry3269/jerry3269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+
+
 
 ## 🔭 I’m currently working on ...
 
@@ -41,6 +43,4 @@ AJOU UNIVERSITY
 <br>
 
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry3269)
