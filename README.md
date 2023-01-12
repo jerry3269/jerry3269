@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry3269&show_icons=true&theme=radical)
 
 **jerry3269/jerry3269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +41,6 @@ AJOU UNIVERSITY
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry3269&show_icons=true&theme=radical)
+
 
 
