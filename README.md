@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 <br>
+<div align="center">
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=YANG_JI_WOONG&fontAlignY=45&fontSize=40&height=150&animation=blinking)
-
+  
+</div>
 <br>
 
 
@@ -43,10 +45,11 @@ AJOU UNIVERSITY
 </p>
 
 
-<br>
+<br><br><br><br><br><br>
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry3269&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry3269&layout=compact&theme=tokyonight)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry3269&langs_count=8)](https://github.com/jerry3269/github-readme-stats)
+</div>
