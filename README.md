@@ -20,13 +20,12 @@ AJOU UNIVERSITY
 <br>
 
 ## 🌱 I’m currently learning ...
-
-|자바 스프링||
-|--|--|
-|스프링 입문|[코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://github.com/jerry3269/springboot-1)|
-|스프링 핵심 원리|[기본편](https://github.com/jerry3269/springboot-2)|
-|스프링 부트와 JPA 활용1|[웹 애플리케이션 개발](https://github.com/jerry3269/springboot3)|
-|스프링MVC1|[웹 개발 핵심 기술](https://github.com/jerry3269/springMVC1)|
+||
+|--|
+|[스프링 입문](https://github.com/jerry3269/springboot-1)|
+|[스프링 기본](https://github.com/jerry3269/springboot-2)|
+|[스프링 부트와 JPA 활용1](https://github.com/jerry3269/springboot3)|
+|[스프링MVC1](https://github.com/jerry3269/springMVC1)|
 
 <br><br>
 
