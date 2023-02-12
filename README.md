@@ -26,6 +26,8 @@ AJOU UNIVERSITY
 |[스프링 기본](https://github.com/jerry3269/springboot-2)|
 |[스프링 부트와 JPA 활용1](https://github.com/jerry3269/springboot3)|
 |[스프링MVC1](https://github.com/jerry3269/springMVC1)|
+|[스프링 부트와 JPA 활용2](https://github.com/jerry3269/jpa-shop2)|
+|[스프링 데이터 JPA](https://github.com/jerry3269/data-jpa)|
 
 <br><br>
 
