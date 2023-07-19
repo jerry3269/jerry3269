@@ -20,30 +20,9 @@ AJOU UNIVERSITY
 <br>
 
 ## 🌱 I’m currently learning ...
-||
-|--|
-|[스프링 입문](https://github.com/jerry3269/springboot-1)|
-|[스프링 기본](https://github.com/jerry3269/springboot-2)|
-|[스프링 부트와 JPA 활용1](https://github.com/jerry3269/springboot3)|
-|[스프링MVC1](https://github.com/jerry3269/springMVC1)|
-|[스프링 부트와 JPA 활용2](https://github.com/jerry3269/jpa-shop2)|
-|[스프링 데이터 JPA](https://github.com/jerry3269/data-jpa)|
+
 
 <br><br>
-
-## Language
-
-<br>
-
-<p align='center'>
-<img src="https://img.shields.io/badge/JAVA%20-FF0000.svg?&style=for-the-badge&&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS%20-FF9E0F.svg?&style=for-the-badge&&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP%20-FECC00.svg?&style=for-the-badge&&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA SCRIPT%20-006643.svg?&style=for-the-badge&&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA%20-00CAFF.svg?&style=for-the-badge&&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA SPRING%20-232F3E.svg?&style=for-the-badge&&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%20-66459B.svg?&style=for-the-badge&&logoColor=white"/>
-</p>
 
 
 <br><br>
