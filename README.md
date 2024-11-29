@@ -27,9 +27,6 @@ AJOU UNIVERSITY
 
 <br><br>
 
-## 🌱 Tistory
-[<img src="https://img.shields.io/badge/Tistory%20-FF0000.svg?&style=for-the-badge&&logoColor=white"/>](https://no-effort-no-gain.tistory.com/)
-
 
 
 <br><br><br><br>
