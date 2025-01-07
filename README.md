@@ -1,17 +1,3 @@
-
-
-### Hi there 👋
-<br>
-<div align="center">
-
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=YANG_JI_WOONG&fontAlignY=45&fontSize=40&height=150&animation=blinking)
-  
-</div>
-<br>
-
-
-
-
 ## 🔭 I’m currently working on ...
 
 AJOU UNIVERSITY
