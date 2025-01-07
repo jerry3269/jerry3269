@@ -1,20 +1,8 @@
 ## 🔭 I’m currently working on ...
 
-AJOU UNIVERSITY
-
+아주대학교 (20190.02 ~ )
 <br>
 <br>
-
-## 🌱 I’m currently learning ...
-
-
-<br><br>
-
-
-<br><br>
-
-
-
 <br><br><br><br>
 
 
