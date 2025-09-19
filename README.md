@@ -1,13 +1,8 @@
-## 🔭 I’m currently working on ...
+## 경력
+* dozn / Backend Engineer (2025.10 ~ 현재)
+* plitsoft / Backend Engineer Intern (2024.09 ~ 2024.12)
 
-아주대학교 (2019.03. ~ 2025.02.) <br>
-더즌 (2025.09. ~ )
-<br>
-<br>
-<br><br><br><br>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry3269&show_icons=true&theme=radical)
+### 교육
+* 아주대학교 소프트웨어학과 (2019.03 ~ 2025.02)
 
 
