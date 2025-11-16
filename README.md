@@ -1,4 +1,5 @@
 ## 경력
+* dozn / System Backend Engineer (2025.10 ~ 현재)
 * plitsoft / Backend Engineer Intern (2024.09 ~ 2024.12)
 
 ## 교육
